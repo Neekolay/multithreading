@@ -1,7 +1,9 @@
 # multithreading
+to run:
 
-mvn exec:java to run
+mvn package
 
+mvn exec:java 
 
 Многопоточное приложение.
 
